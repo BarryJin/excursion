@@ -1,0 +1,35 @@
+html{
+  background-color:Black;
+  text-align: center;
+}
+
+h1{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.download{
+  color: Aquamarine;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
+}
+
+.place{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#trademark{
+  text-align: right;
+  color:gray;
+}
